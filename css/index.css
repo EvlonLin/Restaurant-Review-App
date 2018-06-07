@@ -1,5 +1,4 @@
-
-
+/* CSS Document for index.html */
 /* ====================== Map ====================== */
 #map {
   height: 400px;
@@ -49,7 +48,7 @@
   box-sizing: border-box;
   border: solid #ccc 1px;
   border-radius: 5px;
-  box-shadow: 7px 7px 10px -2px rgba(153,153,153,0.59);
+  box-shadow: 7px 7px 10px -2px rgba(153,153,153,0.35);
   font-family: Arial,sans-serif;
   margin: 40px 3% 15px 0;
   min-height: 380px;

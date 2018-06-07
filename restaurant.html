@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
@@ -21,7 +21,7 @@
     </nav>
     <!-- Beginning breadcrumb -->
     <ul id="breadcrumb" >
-      <li><a href="/">Home</a></li>
+      <li><a href="/" aria-label="link to back homepage">Home</a></li>
     </ul>
     <!-- End breadcrumb -->
     <!-- End nav -->
@@ -29,18 +29,15 @@
   <!-- End header -->
 
   <!-- Beginning main -->
-  <main id="maincontent">
+  <main id="maincontent" aria-describedby="restaurant-name" role="main">
     <!-- Beginning map -->
-    <section id="map-container">
-      <div id="map"></div>
-    </section>
-    <!-- End map -->
     <!-- Beginning restaurant -->
-    <section id="restaurant-container">
+    <section id="restaurant-container" role="article" aria-label="restaurant details" tabindex="0">
       <h1 id="restaurant-name"></h1>
+      <!-- creating 3 divs for responsive design -->
       <div id="box-container">      
         <div id="box1">      
-          <img id="restaurant-img">
+          <img id="restaurant-img" alt="photo for the restaurant">
           <p id="restaurant-cuisine"></p>
         </div>
         <div id="box2">      
@@ -48,15 +45,17 @@
           <table id="restaurant-hours"></table>
         </div>
       </div>
-
-
     </section>
     <!-- end restaurant -->
     <!-- Beginning reviews -->
-    <section id="reviews-container">
+    <section id="reviews-container" role="article" aria-label="restaurant review" tabindex="0">
       <ul id="reviews-list"></ul>
     </section>
     <!-- End reviews -->
+    <section id="map-container">
+      <div id="map"></div>
+    </section>
+    <!-- End map -->
   </main>
   <!-- End main -->
 
@@ -72,6 +71,7 @@
   <!-- Main javascript file -->
   <script type="text/javascript" src="js/restaurant_info.js"></script>
   <!-- Google Maps -->
+  <script src="serviceWorker-registration.js"></script>
   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAnZa58n9ktdJWoQsamYKtg-4a8__UrxQY&libraries=places&callback=initMap"></script>
   <!-- End scripts -->
 

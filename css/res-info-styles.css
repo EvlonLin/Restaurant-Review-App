@@ -1,3 +1,4 @@
+/* CSS Document for restaurant.html */
 /* ====================== Restaurant Details ====================== */
 .inside header {
   position: fixed;
@@ -110,6 +111,13 @@
   nav h1 {
     padding-top: 8px;
   }
+  td {
+    text-align: right;
+  }
+  tr {
+    color: #666;
+    text-align: left;
+  }
   #breadcrumb {
     display: none;
   }
@@ -147,11 +155,14 @@
     width: 92%;
     top: calc(30% + 50px);
   }
+  #restaurant-address{
+    text-align: center;
+  }
   #restaurant-hours {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10pt;
-    color: #333;
     line-height: 1.5;
+    margin: auto;
   }
   #footer {
     font-size: 5pt;
@@ -167,6 +178,13 @@
   }
   nav {
     height: 70px;
+  }
+  td {
+    text-align: right;
+  }
+  tr {
+    color: #666;
+    text-align: left;
   }
   #breadcrumb {
     width: 100%;
@@ -201,12 +219,14 @@
   }
   #restaurant-address{
     padding: 10px 0;
+    text-align: center;
   }
   #restaurant-hours {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10pt;
     color: #333;
     line-height: 2;
+    margin:auto;
   }
   #box1{
     max-width: 370px;

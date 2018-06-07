@@ -11,13 +11,13 @@
     },
     "cuisine_type": "Asian",
     "operating_hours": {
-      "Monday": "5:30 pm - 11:00 pm",
-      "Tuesday": "5:30 pm - 12:00 am",
-      "Wednesday": "5:30 pm - 12:00 am",
-      "Thursday": "5:30 pm - 12:00 am",
-      "Friday": "5:30 pm - 12:00 am",
-      "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
-      "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+      "Mon": "5:30 pm - 11:00 pm",
+      "Tue": "5:30 pm - 12:00 am",
+      "Wed": "5:30 pm - 12:00 am",
+      "Thu": "5:30 pm - 12:00 am",
+      "Fri": "5:30 pm - 12:00 am",
+      "Sat": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+      "Sun": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
     },
     "reviews": [{
         "name": "Steve",
@@ -50,13 +50,13 @@
     },
     "cuisine_type": "Pizza",
     "operating_hours": {
-      "Monday": "5:30 pm - 11:00 pm",
-      "Tuesday": "5:30 pm - 11:00 pm",
-      "Wednesday": "5:30 pm - 11:00 pm",
-      "Thursday": "5:30 pm - 11:00 pm",
-      "Friday": "5:30 pm - 11:00 pm",
-      "Saturday": "5:00 pm - 11:30 pm",
-      "Sunday": "12:00 pm - 3:00 pm, 5:00 pm - 11:00 pm"
+      "Mon": "5:30 pm - 11:00 pm",
+      "Tue": "5:30 pm - 11:00 pm",
+      "Wed": "5:30 pm - 11:00 pm",
+      "Thu": "5:30 pm - 11:00 pm",
+      "Fri": "5:30 pm - 11:00 pm",
+      "Sat": "5:00 pm - 11:30 pm",
+      "Sun": "12:00 pm - 3:00 pm, 5:00 pm - 11:00 pm"
     },
     "reviews": [{
         "name": "Steph",
@@ -89,13 +89,13 @@
     },
     "cuisine_type": "Asian",
     "operating_hours": {
-      "Monday": "11:30 am - 2:00 am",
-      "Tuesday": "11:30 am - 2:00 am",
-      "Wednesday": "11:30 am - 2:00 am",
-      "Thursday": "11:30 am - 2:00 am",
-      "Friday": "11:30 am - 6:00 am",
-      "Saturday": "11:30 am - 6:00 am",
-      "Sunday": "11:30 am - 2:00 am"
+      "Mon": "11:30 am - 2:00 am",
+      "Tue": "11:30 am - 2:00 am",
+      "Wed": "11:30 am - 2:00 am",
+      "Thu": "11:30 am - 2:00 am",
+      "Fri": "11:30 am - 6:00 am",
+      "Sat": "11:30 am - 6:00 am",
+      "Sun": "11:30 am - 2:00 am"
     },
     "reviews": [{
         "name": "Steve",
@@ -128,13 +128,13 @@
     },
     "cuisine_type": "American",
     "operating_hours": {
-      "Monday": "8:00 am - 10:30 pm",
-      "Tuesday": "8:00 am - 10:30 pm",
-      "Wednesday": "8:00 am - 10:30 pm",
-      "Thursday": "8:00 am - 2:30 am",
-      "Friday": "8:00 am - Sat",
-      "Saturday": "Open 24 hours",
-      "Sunday": "Sat - 10:30 pm"
+      "Mon": "8:00 am - 10:30 pm",
+      "Tue": "8:00 am - 10:30 pm",
+      "Wed": "8:00 am - 10:30 pm",
+      "Thu": "8:00 am - 2:30 am",
+      "Fri": "8:00 am - Sat",
+      "Sat": "Open 24 hours",
+      "Sun": "Sat - 10:30 pm"
     },
     "reviews": [{
         "name": "Steve",
@@ -167,13 +167,13 @@
     },
     "cuisine_type": "Pizza",
     "operating_hours": {
-      "Monday": "11:00 am - 12:00 am",
-      "Tuesday": "11:00 am - 12:00 am",
-      "Wednesday": "11:00 am - 12:00 am",
-      "Thursday": "11:00 am - 12:00 am",
-      "Friday": "11:00 am - 12:00 am",
-      "Saturday": "10:00 am - 12:00 am",
-      "Sunday": "10:00 am - 12:00 am"
+      "Mon": "11:00 am - 12:00 am",
+      "Tue": "11:00 am - 12:00 am",
+      "Wed": "11:00 am - 12:00 am",
+      "Thu": "11:00 am - 12:00 am",
+      "Fri": "11:00 am - 12:00 am",
+      "Sat": "10:00 am - 12:00 am",
+      "Sun": "10:00 am - 12:00 am"
     },
     "reviews": [{
         "name": "Steve",
@@ -206,13 +206,13 @@
     },
     "cuisine_type": "American",
     "operating_hours": {
-      "Monday": "Closed",
-      "Tuesday": "12:00 pm - 10:00 pm",
-      "Wednesday": "12:00 pm - 10:00 pm",
-      "Thursday": "12:00 pm - 10:00 pm",
-      "Friday": "12:00 pm - 11:00 pm",
-      "Saturday": "12:00 pm - 11:00 pm",
-      "Sunday": "12:00 pm - 9:00 pm"
+      "Mon": "Closed",
+      "Tue": "12:00 pm - 10:00 pm",
+      "Wed": "12:00 pm - 10:00 pm",
+      "Thu": "12:00 pm - 10:00 pm",
+      "Fri": "12:00 pm - 11:00 pm",
+      "Sat": "12:00 pm - 11:00 pm",
+      "Sun": "12:00 pm - 9:00 pm"
     },
     "reviews": [{
         "name": "Steve",
@@ -245,13 +245,13 @@
     },
     "cuisine_type": "American",
     "operating_hours": {
-      "Monday": "11:30 am - 10:00 pm",
-      "Tuesday": "Closed",
-      "Wednesday": "11:30 am - 10:00 pm",
-      "Thursday": "11:30 am - 10:00 pm",
-      "Friday": "11:30 am - 10:00 pm",
-      "Saturday": "11:30 am - 10:00 pm",
-      "Sunday": "11:30 am - 10:00 pm"
+      "Mon": "11:30 am - 10:00 pm",
+      "Tue": "Closed",
+      "Wed": "11:30 am - 10:00 pm",
+      "Thu": "11:30 am - 10:00 pm",
+      "Fri": "11:30 am - 10:00 pm",
+      "Sat": "11:30 am - 10:00 pm",
+      "Sun": "11:30 am - 10:00 pm"
     },
     "reviews": [{
         "name": "Steve",
@@ -269,7 +269,7 @@
         "name": "Shivi",
         "date": "October 26, 2016",
         "rating": 4,
-        "comments": "Great flavors and very satisfying. Craving a sandwich, I stopped by on a Friday night with a vegetarian friend. Super small location with just a few seats inside. Ambiance is a bit industrial, good is definitely much more sophisticated than the look of the place! Ordered the superiority burger anda side of potato salad. The potato salad was very light and tasted clean ( less mayo, lots of dill and some cucumber) -- refreshing for a humid summer night! Sandwich was surprisingly delicious - it is very small ( funny allusion to a White Castle burger) but it packs a punch! Not only are there layers of flavors ( amazing sauces) but the party itself had a great texture Ahmed flavor-- well done and so wonderful! Will definitely stop by again for an overall amazing burger/sandwich. Staff was super nice and accommodating but not out of the way friendly."
+        "comments": "Great flavors and very satisfying. Craving a sandwich, I stopped by on a Fri night with a vegetarian friend. Super small location with just a few seats inside. Ambiance is a bit industrial, good is definitely much more sophisticated than the look of the place! Ordered the superiority burger anda side of potato salad. The potato salad was very light and tasted clean ( less mayo, lots of dill and some cucumber) -- refreshing for a humid summer night! Sandwich was surprisingly delicious - it is very small ( funny allusion to a White Castle burger) but it packs a punch! Not only are there layers of flavors ( amazing sauces) but the party itself had a great texture Ahmed flavor-- well done and so wonderful! Will definitely stop by again for an overall amazing burger/sandwich. Staff was super nice and accommodating but not out of the way friendly."
       }
     ]
   }, {
@@ -284,13 +284,13 @@
     },
     "cuisine_type": "American",
     "operating_hours": {
-      "Monday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
-      "Tuesday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
-      "Wednesday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
-      "Thursday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
-      "Friday": "11:30 am - 3:00 pm, 5:30 pm - 11:30 pm",
-      "Saturday": "10:00 am - 3:00 pm, 5:30 pm - 11:30 pm",
-      "Sunday": "10:00 am - 3:00 pm, 5:30 pm - 11:00 pm"
+      "Mon": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+      "Tue": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+      "Wed": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+      "Thu": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+      "Fri": "11:30 am - 3:00 pm, 5:30 pm - 11:30 pm",
+      "Sat": "10:00 am - 3:00 pm, 5:30 pm - 11:30 pm",
+      "Sun": "10:00 am - 3:00 pm, 5:30 pm - 11:00 pm"
     },
     "reviews": [{
         "name": "Steve",
@@ -302,7 +302,7 @@
         "name": "Loren",
         "date": "October 26, 2016",
         "rating": 4,
-        "comments": "I randomly came here on a Saturday night. I was pleasantly surprised with the food and the service. We had the calamari and the ceviche with avocado, and then the catfish. Oh! Then we had the banana soufflé for dessert with ice cream. It was all delicious and well put together. Would love to eat here again."
+        "comments": "I randomly came here on a Sat night. I was pleasantly surprised with the food and the service. We had the calamari and the ceviche with avocado, and then the catfish. Oh! Then we had the banana soufflé for dessert with ice cream. It was all delicious and well put together. Would love to eat here again."
       },
       {
         "name": "Lori",
@@ -323,13 +323,13 @@
     },
     "cuisine_type": "Asian",
     "operating_hours": {
-      "Monday": "5:00 pm - 10:00 pm",
-      "Tuesday": "5:00 pm - 10:00 pm",
-      "Wednesday": "5:00 pm - 10:00 pm",
-      "Thursday": "5:00 pm - 10:00 pm",
-      "Friday": "5:00 pm - 11:00 pm",
-      "Saturday": "5:00 pm - 11:00 pm",
-      "Sunday": "5:00 pm - 10:00 pm"
+      "Mon": "5:00 pm - 10:00 pm",
+      "Tue": "5:00 pm - 10:00 pm",
+      "Wed": "5:00 pm - 10:00 pm",
+      "Thu": "5:00 pm - 10:00 pm",
+      "Fri": "5:00 pm - 11:00 pm",
+      "Sat": "5:00 pm - 11:00 pm",
+      "Sun": "5:00 pm - 10:00 pm"
     },
     "reviews": [{
         "name": "Steve",
@@ -362,13 +362,13 @@
     },
     "cuisine_type": "Mexican",
     "operating_hours": {
-      "Monday": "5:00 pm - 12:00 am",
-      "Tuesday": "5:00 pm - 12:00 am",
-      "Wednesday": "5:00 pm - 12:00 am",
-      "Thursday": "5:00 pm - 12:00 am",
-      "Friday": "5:00 pm - 12:00 am",
-      "Saturday": "11:00 am - 12:00 am",
-      "Sunday": "11:00 am - 12:00 am"
+      "Mon": "5:00 pm - 12:00 am",
+      "Tue": "5:00 pm - 12:00 am",
+      "Wed": "5:00 pm - 12:00 am",
+      "Thu": "5:00 pm - 12:00 am",
+      "Fri": "5:00 pm - 12:00 am",
+      "Sat": "11:00 am - 12:00 am",
+      "Sun": "11:00 am - 12:00 am"
     },
     "reviews": [{
         "name": "Steve",
