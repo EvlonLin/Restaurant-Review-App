@@ -2,7 +2,7 @@
 ---
 ## Project Overview:
 
-For this Udacity **Restaurant Reviews** projects, It focus on making the wbesite responsive, accessible and work offline. 
+For this Udacity **Restaurant Reviews** projects, It focuses on making the website responsive, accessible and work offline. 
 
 ### How to run this project
 
